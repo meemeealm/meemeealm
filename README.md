@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mee Mee Alainmar</h1>
-<h3 align="center">Aspiring data analyst</h3>
 
 - 🌱 I’m currently learning **matplotlib and pandas.**
 
