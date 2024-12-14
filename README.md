@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **meemee.alm20@gmail.com**
 
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1mGsmMMYD-banAXZSpfYoS1KBMYBDac50/view?usp=sharing">**download my cv here**</a>
+<! ----- 📄-Know about my experiences <a href ="https://drive.google.com/file/d/1mGsmMMYD-banAXZSpfYoS1KBMYBDac50/view?usp=sharing">**download my cv here**</a>---->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
